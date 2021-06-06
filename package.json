@@ -21,7 +21,7 @@
     "resize"
   ],
   "peerDependencies": {
-    "react": "^15.4.0 || ^16.0.0-alpha",
+    "react": ">=16",
     "react-native": ">=v0.40.0"
   },
   "author": "Florian Rival <florianr@bam.tech> (http://bam.tech)",
